@@ -1,0 +1,24 @@
+What i can do is 
+
+
+    - Speak date to know the date
+    - Speak time to know the time
+    - If you wanna greet me then speak hey buddy or wake up buddy
+    - i can open sites but you have to tell me the site name along with the domain
+    - i you want to know the news then speak buzzing,news or headlines
+    - i can play songs for you on youtube only you to say is play song_name on youtube (ex:- play dariya on youtube)
+    - i can make notes and close notes just say make a note to note and close the note 
+    - i can tell you jokes
+    - i can give information about your system
+    - you can ask me about the name of city and i will give you the information about the state,country & etc just say where is country_name
+    - i can switch windows just say switch window
+    - i can shutdown your computer or restart it just say shutdown or restart
+    - i can give live camera access just say cam or camera
+    - i can play radio of all over the world just say radio
+    - you see live cyber attacks betweeen the countries just say cyber attacks
+    - i can scan malware trojans files and you dont have to upload any file i can do it my own just say virus
+    - you can see your current location just say where am i or current location
+    - i can take screenshots and show the screenshot just say take screenshot or show me the screenshot
+    
+                                AND IN LAST YOU CAN SAY GOODBYE 
+  
