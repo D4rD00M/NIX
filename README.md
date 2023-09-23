@@ -1,17 +1,14 @@
-# NIX The AI based Chatbot
+# NIX The AI based Voice Assistant
 
 #### This was my attempt to make a voice assistant similar to JARVIS (in iron man movie)
-#### Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.
 
 ## Built with
 
-<code><img height="30" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://giphy.com/gifs/coxQHKASG60HrHtvkt)"></code>
+<img align="right" alt="Coding" width="400" src="https://cdn.activestate.com/wp-content/uploads/2021/12/python-coding-mistakes.jpg">
+
 
 
 ## Features
-
-#### For a cool demo of this project watch this [YouTube video](https://www.youtube.com/watch?v=oKtrHy0ERNA)
-
 It can do a lot of cool things, some of them being:
 
 - Speak date to know the date
