@@ -46,7 +46,7 @@ It can do a lot of cool things, some of them being:
     ├─ driver
     ├─ NIX                 # Main folder for features 
     │  ├── config          # Contains all secret API Keys
-    │  ├── features        # All functionalities of JARVIS 
+    │  ├── features        # All functionalities of JARVIS & also have some additional features
     │  └── utils           # GUI images
     ├─ __init__.py         # Definition of feature's functions
     ├─ gui.ui              # GUI file (in .ui format)
