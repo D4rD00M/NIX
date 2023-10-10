@@ -50,7 +50,7 @@ It can do a lot of cool things, some of them being:
     │  └── utils           # GUI images
     ├─ __init__.py         # Definition of feature's functions
     ├─ gui.ui              # GUI file (in .ui format)
-    ├─ main.py             # main driver program of Jarvis
+    ├─ main.py             # main driver program of NIX
     ├─ requirements.txt    # all dependencies of the program
 
 - The code structure if pretty simple. The code is completely modularized and is highly customizable
